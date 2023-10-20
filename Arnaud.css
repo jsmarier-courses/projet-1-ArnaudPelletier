@@ -128,3 +128,8 @@ h2 {
 iframe {
     border: 0;
     }
+   
+    img {
+height: 100%;
+width: 100%;
+    }

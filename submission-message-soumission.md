@@ -28,3 +28,4 @@ https://github.com/jsmarier-courses/projet-1-ArnaudPelletier
 14. J'ai également réduit la grandeur de la police des credits.
 15. J'ai changer la police des crédits en Italique
 16. J'ai régler les bordures des iframes à 0.
+17. j'ai régler les dimensions de l'image sur 100% en hauteur et largeur.
